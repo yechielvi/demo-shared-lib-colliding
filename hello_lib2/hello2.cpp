@@ -1,6 +1,6 @@
 #include <iostream>
 void _hello() {
-    std::cout << "lib1\n";
+    std::cout << "lib2\n";
 }
 
 void hello2() {
