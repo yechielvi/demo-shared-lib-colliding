@@ -1,5 +1,5 @@
-void hello1();
-void hello2();
+#include "hello1.h"
+#include "hello2.h"
 
 int main() {
     hello1();
